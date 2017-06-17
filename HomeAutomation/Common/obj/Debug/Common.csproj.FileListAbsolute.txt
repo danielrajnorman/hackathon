@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\ASP.NETMVC5withAngularJSPart1\ASP.NET MVC 5 with AngularJS Part 1\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\ASP.NETMVC5withAngularJSPart1\ASP.NET MVC 5 with AngularJS Part 1\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\ASP.NETMVC5withAngularJSPart1\ASP.NET MVC 5 with AngularJS Part 1\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ASP.NETMVC5withAngularJSPart1\ASP.NET MVC 5 with AngularJS Part 1\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\ASP.NETMVC5withAngularJSPart1\ASP.NET MVC 5 with AngularJS Part 1\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\HomeAutomation\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\HomeAutomation\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\HomeAutomation\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HomeAutomation\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\HomeAutomation\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HomeAutomation\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\HomeAutomation\Common\obj\Debug\Common.pdb
